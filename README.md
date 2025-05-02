@@ -3,7 +3,7 @@
 ![alt text](images/desktop.png)
 
 ## Description
-An interactive web application that calculates a person's age based on their date of birth. Built using HTML, CSS, and JavaScript.
+This is a fully interactive web application that calculates a user's exact age based on their date of birth input. Designed with a clean and responsive interface, the app uses HTML, CSS, and JavaScript to dynamically process input, validate data, and display results in real time. It's a great example of combining logic, design, and user interaction to solve a practical problem in a simple, intuitive way.
 
 ## Features
 - User-friendly interface
